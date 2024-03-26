@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import "./fonts.css";
 import { ThemeProvider } from "@/components/theme-provider";
 export const metadata: Metadata = {
-  title: "Gym Manneger",
-  description: "Gym Manneger",
+  title: "Cupons exclusivos para sua maquininha",
+  description: "Cupons exclusivos para sua maquininha",
 };
 
 export default function RootLayout({
